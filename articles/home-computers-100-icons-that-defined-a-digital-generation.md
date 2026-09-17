@@ -6,7 +6,7 @@ excerpt: >-
 license: CC BY 4.0
 markdown file: "https://github.com/lawrencewoodman/techtinkering.com/blob/master/content/articles/2020-04-23-home-computers-100-icons-that-defined-a-digital-generation.md"
 retrieved: 2026-09-17
-techtinkering of:
+techtinkering of: book
 type: website
 url: /techtinkering.com/articles/home-computers-100-icons-that-defined-a-digital-generation/
 website: "https://techtinkering.com/articles/home-computers-100-icons-that-defined-a-digital-generation/"
