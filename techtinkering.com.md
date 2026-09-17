@@ -2,6 +2,19 @@
 title: "TechTinkering"
 excerpt: "TechTinkering is a website devoted to Retro Computers, Programming and Linux."
 source code: "https://github.com/lawrencewoodman/techtinkering.com"
+tag requires property:
+  - title
+  - author
+  - excerpt
+  - license
+  - markdown file
+  - retrieved
+  - techtinkering of
+  - type
+  - url
+  - website
+  - when
+  - tags
 type: website
 url: /techtinkering.com/
 website: "https://techtinkering.com/"
