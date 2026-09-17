@@ -6,7 +6,7 @@ excerpt: >-
 license: CC BY 4.0
 markdown file: "https://github.com/lawrencewoodman/techtinkering.com/blob/master/content/articles/2019-06-19-mission-impossible-on-cpm.md"
 retrieved: 2026-09-17
-techtinkering.com of:
+techtinkering of:
   - "Mission: Impossible"
   - CP/M
 type: website
