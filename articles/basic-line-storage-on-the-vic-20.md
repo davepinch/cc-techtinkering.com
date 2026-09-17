@@ -6,6 +6,9 @@ excerpt: >-
 license: CC BY 4.0
 markdown file: "https://github.com/lawrencewoodman/techtinkering.com/blob/master/content/articles/2021-03-17-basic-line-storage-on-the-vic-20.md"
 retrieved: 2026-09-17
+techtinkering of:
+  - Commodore BASIC
+  - VIC-20
 type: website
 url: /techtinkering.com/articles/basic-line-storage-on-the-vic-20/
 website: "https://techtinkering.com/articles/basic-line-storage-on-the-vic-20/"
