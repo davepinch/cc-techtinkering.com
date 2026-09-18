@@ -10,6 +10,7 @@ techtinkering of: Commodore BASIC
 type: website
 url: /techtinkering.com/articles/tokenize-detokenize-commodore-basic-programs-using-petcat/
 website: "https://techtinkering.com/articles/tokenize-detokenize-commodore-basic-programs-using-petcat/"
+when: 2019-11-21
 tags:
   - website
   - TechTinkering
