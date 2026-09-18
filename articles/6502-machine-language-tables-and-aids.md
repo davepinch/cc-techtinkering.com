@@ -7,7 +7,7 @@ license: CC BY 4.0
 markdown file: "https://github.com/lawrencewoodman/techtinkering.com/blob/master/content/articles/2019-12-04-6502-machine-language-tables-and-aids.md"
 retrieved: 2026-09-17
 techtinkering of:
-  - machine language
+  - machine code
   - MOS Technology 6502 
 type: website
 url: /techtinkering.com/articles/6502-machine-language-tables-and-aids/
