@@ -9,6 +9,7 @@ techtinkering of:
   - What the Dormouse Said
   - John Markoff
 type: website
+url: /techtinkering.com/2016/03/06/book-review-what-the-dormouse-said-by-john-markoff/
 website: "https://techtinkering.com/2016/03/06/book-review-what-the-dormouse-said-by-john-markoff/"
 when: 2016-03-06
 tags:
