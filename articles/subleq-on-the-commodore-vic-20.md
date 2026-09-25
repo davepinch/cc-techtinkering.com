@@ -8,7 +8,7 @@ markdown file: "https://github.com/lawrencewoodman/techtinkering.com/blob/master
 retrieved: 2026-09-17
 techtinkering of:
   - SUBLEQ
-  - Commodore VIC-20
+  - VIC-20
 type: website
 url: /techtinkering.com/articles/subleq-on-the-commodore-vic-20/
 website: "https://techtinkering.com/articles/subleq-on-the-commodore-vic-20/"
